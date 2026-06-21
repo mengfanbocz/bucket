@@ -1,0 +1,9 @@
+{
+    "version": "2.10.10",
+    "description": "稻壳阅读器（打印清晰版）",
+    "homepage": "no longer there",
+    "license": "Freeware",
+    "url": "https://gitee.com/mengfanbo75/installers/raw/master/DocBox.7z",
+    "hash": "a5419306ebcf8e96802d78dc333eeab108343952a69c0ba4ed8ae00fb0c6a571",
+    "bin": ["稻壳阅读器DocBox 2.10.10.exe"]
+}

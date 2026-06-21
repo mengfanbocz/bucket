@@ -1,0 +1,8 @@
+{
+    "homepage": "FlashFXP",
+    "license": "MIT",
+    "version": "5.4.0",
+    "url": "https://gitee.com/mengfanbo75/scoop/raw/main/installer/FlashFXP.zip",
+    "hash": "3a8e8e49420fe6c377cebf2b082b3a7d8db51364e7c8abd631ff37cd5683132a",
+    "bin": "FlashFXP.exe"
+}

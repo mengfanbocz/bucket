@@ -1,0 +1,14 @@
+{
+    "version": "2.1.5",
+    "description": "FastGithub",
+    "homepage": "no longer there",
+    "license": "none",
+    "url": "to be updated",
+    "hash": "",
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\fsc.db\") -and !(Test-Path \"$dir\\fsc.db\")) {",
+        "    New-Item \"$dir\\fsc.db\" | Out-Null",
+        "}"
+    ],
+    "bin": ["FastGithub.UI.exe"],
+}

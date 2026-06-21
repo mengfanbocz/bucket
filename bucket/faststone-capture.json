@@ -1,0 +1,16 @@
+{
+    "version": "11.2",
+    "description": "A screen capture tool.",
+    "homepage": "https://www.faststone.org/",
+    "license": "Shareware",
+    "url": "https://gitee.com/mengfanbo75/installers/raw/master/FastStoneCapture.7z",
+    "hash": "",
+    "extract_dir": "FSCapture",
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\fsc.db\") -and !(Test-Path \"$dir\\fsc.db\")) {",
+        "    New-Item \"$dir\\fsc.db\" | Out-Null",
+        "}"
+    ],
+    "bin": ["FSCapture.exe"],
+    "persist": ["fsc.db"]
+}

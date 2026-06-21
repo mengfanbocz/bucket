@@ -1,0 +1,9 @@
+{
+    "version": "3.4",
+    "description": "SpeQ Mathematics",
+    "homepage": "http://www.speqmath.com/",
+    "license": "Freeware",
+    "url": "https://gitee.com/mengfanbo75/installers/raw/master/SpeQ%20Mathematics.7z",
+    "hash": "",
+    "bin": ["SpeQ Mathematics.exe"]
+}
